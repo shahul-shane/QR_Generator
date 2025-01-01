@@ -1,0 +1,63 @@
+
+
+@font-face {
+    font-family: 'MyFont';
+    src: url('../font/BrittiSansTrial-Regular-BF6757bfd47ffbf.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'MyFont';
+}
+
+.qr-contain {
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-around;
+}
+.qr-cont {
+    position: relative;
+    padding-right: 100px; /* Adjust as needed */
+}
+
+.qr-cont::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0px;
+    left: 100px;
+    width: 100%;
+    height: 100%;
+    border-right: 1px solid black;
+    transform: skewX(-30deg);
+    transform-origin: top right;
+    pointer-events: none; /* Ensures the pseudo-element doesn't interfere with other elements */
+}
+
+.qr-cont h1{
+    font-size: 26px;
+}
+.qr-cont form{
+    margin-top: 30px;
+}
+.qr-cont form input{
+    width: 230px;
+    margin-top: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+.qr-cont button{
+    padding: 6px 12px;
+    background: #670370;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+.qr-dis h2{
+    font-size: 19px;
+}
+   
+    
