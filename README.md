@@ -32,21 +32,21 @@ Before running the application, ensure you have the following installed:
    python -m venv venv
 
 4. **Activate the Virtual Environment**:
-   ***On Windows***:
+   **On Windows**:
    ```bash
    venv\Scripts\activate
-
-  ***On mac***:
+   
+   **On mac**:
    ```bash
    source venv/bin/activate
 
 5. **Install Dependencies**:
-  ```bash
+   ```bash
    pip install -r requirements.txt
 
 6. **Run the Application**:
-  ```bash
-  python main.py
+   ```bash
+   python main.py
 
 The application will start, and you can access it at http://127.0.0.1:5000/.
 
