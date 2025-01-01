@@ -50,12 +50,12 @@ Before running the application, ensure you have the following installed:
 
 The application will start, and you can access it at http://127.0.0.1:5000/.
 
-*Usage*
-1.Open your web browser and navigate to http://127.0.0.1:5000/.
-2.Enter the text or URL you want to encode into a QR code.
-3.Click the "Generate QR Code" button.
-4.The generated QR code will be displayed on the page.
+#### *Usage*
+- 1.Open your web browser and navigate to http://127.0.0.1:5000/.
+- 2.Enter the text or URL you want to encode into a QR code.
+- 3.Click the "Generate QR Code" button.
+- 4.The generated QR code will be displayed on the page.
 
-*Conclusion*
+#### *Conclusion*
 This project, though simple, provides valuable insights into building web applications with Flask and generating QR codes using Python. It's an excellent starting point for those looking to practice and enhance their Flask skills.
     
