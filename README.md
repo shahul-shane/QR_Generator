@@ -1,4 +1,4 @@
-# **CodePlay Chronicles**
+# ***CodePlay Chronicles***
 # QR Code Generator with Flask
 
 Welcome to the QR Code Generator project, part of the **CodePlay Chronicles** series! This simple yet effective application allows you to generate QR codes for any text or URL. It's designed to practice Flask and Python's QR code generation capabilities.
@@ -51,10 +51,10 @@ Before running the application, ensure you have the following installed:
 The application will start, and you can access it at http://127.0.0.1:5000/.
 
 #### *Usage*
-- 1.Open your web browser and navigate to http://127.0.0.1:5000/.
-- 2.Enter the text or URL you want to encode into a QR code.
-- 3.Click the "Generate QR Code" button.
-- 4.The generated QR code will be displayed on the page.
+- Open your web browser and navigate to http://127.0.0.1:5000/.
+- Enter the text or URL you want to encode into a QR code.
+- Click the "Generate QR Code" button.
+- The generated QR code will be displayed on the page.
 
 #### *Conclusion*
 This project, though simple, provides valuable insights into building web applications with Flask and generating QR codes using Python. It's an excellent starting point for those looking to practice and enhance their Flask skills.
