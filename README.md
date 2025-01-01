@@ -1,5 +1,5 @@
 # ***CodePlay Chronicles***
-# QR Code Generator with Flask
+## QR Code Generator with Flask
 
 Welcome to the QR Code Generator project, part of the **CodePlay Chronicles** series! This simple yet effective application allows you to generate QR codes for any text or URL. It's designed to practice Flask and Python's QR code generation capabilities.
 
